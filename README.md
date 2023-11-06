@@ -39,9 +39,9 @@ $ npm run build
 $ npm run start
 
 # Application is live 🎉: (Wait up to 4min to start server)
-UI: https://nestngionmonorepo.onrender.com
-API: https://nestngionmonorepo.onrender.com/api
-Swagger: https://nestngionmonorepo.onrender.com/swagger
+UI: https://nest-angular-monorepo.onrender.com
+API: https://nest-angular-monorepo.onrender.com/api
+Swagger: https://nest-angular-monorepo.onrender.com/swagger
 
 # Git Repository for reference:
 https://github.com/gajanannarwade1989/NestNgIonMonorepo
