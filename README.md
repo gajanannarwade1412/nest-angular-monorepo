@@ -43,7 +43,7 @@ API: https://nest-angular-monorepo.onrender.com/api
 Swagger: https://nest-angular-monorepo.onrender.com/swagger
 
 # Git Repository for reference:
-https://github.com/gajanannarwade1989/NestNgIonMonorepo
+https://github.com/gajanannarwade1412/nest-angular-monorepo
 
 # Versions: 
 $ ng v 
